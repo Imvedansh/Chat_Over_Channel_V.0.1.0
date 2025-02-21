@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Chat_Over_Channel_V.0.1.0/static/css/main.dc4d6ff2.css",
+    "main.js": "/Chat_Over_Channel_V.0.1.0/static/js/main.7757d99c.js",
+    "static/js/453.419a5d54.chunk.js": "/Chat_Over_Channel_V.0.1.0/static/js/453.419a5d54.chunk.js",
+    "index.html": "/Chat_Over_Channel_V.0.1.0/index.html",
+    "main.dc4d6ff2.css.map": "/Chat_Over_Channel_V.0.1.0/static/css/main.dc4d6ff2.css.map",
+    "main.7757d99c.js.map": "/Chat_Over_Channel_V.0.1.0/static/js/main.7757d99c.js.map",
+    "453.419a5d54.chunk.js.map": "/Chat_Over_Channel_V.0.1.0/static/js/453.419a5d54.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc4d6ff2.css",
+    "static/js/main.7757d99c.js"
+  ]
+}
